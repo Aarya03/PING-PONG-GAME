@@ -1,7 +1,10 @@
 # PING-PONG-GAME
 <p>
 Ping Pong Game in 8086 Assembly Language</br>
-
+<b>The Game</b>
+<p align="center">
+  <img src="Gameplay.png" width="650" title="The Game">
+</p>
 <b>Prerequisites:</b></br>
 Install DOSBox 0.74 in your system</br>
 Create a folder named 8086(or any other name) in your C drive
